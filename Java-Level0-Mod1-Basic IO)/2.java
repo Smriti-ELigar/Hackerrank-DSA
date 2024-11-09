@@ -1,4 +1,4 @@
-```java 
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -13,4 +13,4 @@ public class Solution {
          // \\ escapes the backslash,
     }
 }
-```
+

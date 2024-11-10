@@ -1,4 +1,5 @@
 //Write a program to print corresponding day based on given input
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

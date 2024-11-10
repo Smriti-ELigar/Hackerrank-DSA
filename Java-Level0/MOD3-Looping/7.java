@@ -1,4 +1,5 @@
 //program to find the LCM of the given two numbers.
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

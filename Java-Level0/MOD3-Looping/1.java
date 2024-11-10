@@ -1,4 +1,5 @@
 //program to find whether the given number is power of 2 or not.
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
